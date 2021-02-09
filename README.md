@@ -1,5 +1,12 @@
 # RFM---Customer-Segmentation
 
+One of the efficient customer segmentation of an organization is the segmentation of customers into similar behavioral groups based on their RFM (Recency, Frequency and Monetary) values.
+
+![RFM Analysis](https://user-images.githubusercontent.com/64853689/107374859-bcf80c00-6af0-11eb-8fb4-f75f193c3ebf.png)
+
+Customer segmentation is one of the efficient methods for managing various customers with different preferences. Recency Frequency Monetary (RFM) model is a popular technique for customer segmentation based on the analysis of purchase behaviors. The model analyzes purchase records and represents each transaction by three dimensions.
+
+
 ## Aim:
 Segmenting customers according to certain criteria and then developing sales and marketing techniques specific to these segmentations.
 
